@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+api_key.yml
+.ipynb_checkpoints
+
